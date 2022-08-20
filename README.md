@@ -16,7 +16,7 @@ So, the point is that we have to install the VSCode server on the turtlebot3 usi
 3. VSCode with “Remote Development” Extension
 4. Allow access to your computer via SSH
 	- For Windows
-		- First, Open up Powershell as administator  
+		- First, Open up Powershell as the administrator  
 			(<span style="color:red">**Must be in administrator mode!!**</span> otherwise, you might not be able to run the following command)
 		- Second, run the command `Add-WindowsCapability -Online -Name OpenSSH.Server~~~~0.0.1.0`
 	- For macOS: please follow this guide https://support.apple.com/en-gb/guide/mac-help/mchlp1066/mac
