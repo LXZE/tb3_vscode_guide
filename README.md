@@ -26,6 +26,8 @@ So, the point is that we have to install the VSCode server on the turtlebot3 usi
 2. On your computer
 	- connect to a LAN cable (make sure that it has the internet connection)
 	- connect to the robot’s Wi-Fi, also check up the IP of the robot (We have to use it later)
+	- make sure that you still can connect to the internet after connecting to the robot's Wi-Fi  
+	(or try to open [https://code.visualstudio.com/](https://code.visualstudio.com/))
 3. In VSCode
 	1. Open the command palette
 	- For Windows: type `Ctrl+Shift+P`
